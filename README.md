@@ -1,2 +1,3 @@
-# lantern-forum-uae
-Forum for discussing all things Lantern for users in the UAE!
+This repository is devoted to discussing all things related to Lantern in the UAE.
+
+Please [join the discussion](https://github.com/getlantern/lantern-forum-uae/discussions)!
